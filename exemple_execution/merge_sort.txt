@@ -1,0 +1,12 @@
+# exemple d'éxecution : 
+ 
+#1
+ on donne une liste qui ces élements :
+    list =[5,2,3,8]
+    et on retourne 
+        [2,3,5,8]
+
+# 2
+list =[ 4,85,6,1]
+    et sa retourne 
+        [1,4,6,85]
