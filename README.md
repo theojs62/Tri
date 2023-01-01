@@ -3,17 +3,15 @@
 This is our project !!
 https://www.youtube.com/watch?v=KsGVIKlYQXs
 
-**A rendre pour 28 janvier 2022**
-
 ## Répartition des tâches
-
-- Faire un programme qui vérifie si le tableau est trié         *Sébastien*         **Fait**
-- Tri par insertion                                             *Theo*              **Fait**
-- Tri par sélection                                             *Sébastien*         **Fait**
-- Tri à bulle                                                   *Maxime*            **Fait**
-- Tri par fusion                                                *Théo*              **Fait**
-- Tri rapide                                                    *Sébastien*         **Fait**
-- Tri pile                                                      *Maxime*            **Fait**
+En groupe de 3 : 
+- Faire un programme qui vérifie si le tableau est trié        
+- Tri par insertion                                             
+- Tri par sélection                                             
+- Tri à bulle                                                   
+- Tri par fusion                                               
+- Tri rapide                                                    
+- Tri pile                                                      
 - Compte rendu                                                  https://docs.google.com/document/d/1UCtX-gvsHd5qsLzC1xBYjvAyMw0hierQJtLVsoOKQNY/edit?usp=sharing
 - Tableau                                                       https://docs.google.com/spreadsheets/d/1GFY_97Bi76exmbxjiwQV8VfNsBMEQf843xaRcBYi6f0/edit?usp=sharing
 - Programme qui :
@@ -24,7 +22,6 @@ https://www.youtube.com/watch?v=KsGVIKlYQXs
     - énonciation des algorithmes de tri qui auront été traités précédemment.
     - exécution du programme réalisé.
     - présentation et analyse de ce programme.
-- Si on a le temps faire un readme.md pour expliquer quel est quel programme
 
 ## Pour chaque algorithme de tri
 
@@ -55,7 +52,7 @@ https://www.youtube.com/watch?v=KsGVIKlYQXs
 
 ## Ressources
 
-1. Programmation (55%) : il faut rendre le programme et le rapport
+1. Programmation (55%)
 2. Anglais (15%)
 3. MD (15%)
 4. OMF (15%)
